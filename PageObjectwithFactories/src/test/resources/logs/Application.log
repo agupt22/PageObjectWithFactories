@@ -1,0 +1,14 @@
+20/10/2019 13:22:36 devpinoyLogger Chrome browser is launching !!
+20/10/2019 13:23:12 devpinoyLogger Clicking on Element : [[ChromeDriver: chrome on XP (c30affd1ea473607c50e0d78974b6e43)] -> xpath: //button[@id='header-account-menu']]
+20/10/2019 13:23:13 devpinoyLogger Clicking on Element : [[ChromeDriver: chrome on XP (c30affd1ea473607c50e0d78974b6e43)] -> xpath: //a[@id='account-signin']]
+20/10/2019 13:23:23 devpinoyLogger Clicking on Element : [[ChromeDriver: chrome on XP (c30affd1ea473607c50e0d78974b6e43)] -> xpath: //input[@id='gss-signin-email']]entered value in as : guptaamit0@gmail.com
+20/10/2019 13:23:24 devpinoyLogger Clicking on Element : [[ChromeDriver: chrome on XP (c30affd1ea473607c50e0d78974b6e43)] -> xpath: //input[@id='gss-signin-password']]entered value in as : Cowgupta44@
+20/10/2019 13:23:24 devpinoyLogger Clicking on Element : [[ChromeDriver: chrome on XP (c30affd1ea473607c50e0d78974b6e43)] -> xpath: //button[@id='gss-signin-submit']]
+20/10/2019 13:23:36 devpinoyLogger Chrome browser is launching !!
+20/10/2019 13:23:59 devpinoyLogger Clicking on Element : [[ChromeDriver: chrome on XP (af29dd44d1bf448e2736bedd2fa774fc)] -> xpath: //button[@data-section-id = '#section-flight-tab-hp']]
+20/10/2019 13:24:00 devpinoyLogger Clicking on Element : [[ChromeDriver: chrome on XP (af29dd44d1bf448e2736bedd2fa774fc)] -> xpath: //label[@id='flight-type-roundtrip-label-hp-flight']]
+20/10/2019 13:24:02 devpinoyLogger Clicking on Element : [[ChromeDriver: chrome on XP (af29dd44d1bf448e2736bedd2fa774fc)] -> xpath: //input[@id = 'flight-origin-hp-flight']]entered value in as : Delhi, India (DEL-Indira Gandhi Intl.)
+20/10/2019 13:24:04 devpinoyLogger Clicking on Element : [[ChromeDriver: chrome on XP (af29dd44d1bf448e2736bedd2fa774fc)] -> xpath: //input[@id = 'flight-destination-hp-flight']]entered value in as : Jaipur, India (JAI-Sanganer)
+20/10/2019 13:24:05 devpinoyLogger Clicking on Element : [[ChromeDriver: chrome on XP (af29dd44d1bf448e2736bedd2fa774fc)] -> xpath: //input[@id = 'flight-departing-hp-flight']]entered value in as : 10/27/19
+20/10/2019 13:24:05 devpinoyLogger Clicking on Element : [[ChromeDriver: chrome on XP (af29dd44d1bf448e2736bedd2fa774fc)] -> xpath: //input[@id = 'flight-returning-hp-flight']]entered value in as : 10/29/19
+20/10/2019 13:24:06 devpinoyLogger Clicking on Element : [[ChromeDriver: chrome on XP (af29dd44d1bf448e2736bedd2fa774fc)] -> xpath: //form[@id='gcw-flights-form-hp-flight']//button[@class='btn-primary btn-action gcw-submit']]

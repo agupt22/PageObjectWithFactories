@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Page Object Model with Page Factories]">
+  <listeners>
+    <listener class-name="com.amit.errorcollectors.TestListenerAdapter"/>
+    <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+    <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+  </listeners>
+  <test thread-count="5" name="Search Flight Test(failed)">
+    <classes>
+      <class name="com.amit.testcases.FLightSearchTest">
+        <methods>
+          <include name="flightSearchTest"/>
+        </methods>
+      </class> <!-- com.amit.testcases.FLightSearchTest -->
+    </classes>
+  </test> <!-- Search Flight Test(failed) -->
+</suite> <!-- Failed suite [Page Object Model with Page Factories] -->
