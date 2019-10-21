@@ -95,25 +95,5 @@ public class Page {
 	public static void quitBrowser() { 
 		driver.quit();
 	}
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
 	
 }

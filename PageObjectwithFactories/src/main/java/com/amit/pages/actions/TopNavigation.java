@@ -29,9 +29,12 @@ public class TopNavigation {
 		
 	}
 	
-	public void goToCreateAccount() {
+	public CreateAccountPage goToCreateAccount() {
 		
+		Page.click(topNavigation.accountbtn);
+		Page.click(topNavigation.createaccountbtn);
 		
+		return new CreateAccountPage();
 	}
 	
 	
